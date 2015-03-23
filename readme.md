@@ -1,4 +1,6 @@
-# wish-list-manager
+# wish list manager
+
+A small large scale app to demonstrate a modularised web architecture.
 
 ## stack
 
