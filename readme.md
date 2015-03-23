@@ -14,3 +14,4 @@ A small large scale app to demonstrate a modularised web architecture.
 * browserify
 * stylus
 * ramda.js
+* mocha
